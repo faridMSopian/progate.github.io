@@ -1,2 +1,1 @@
-# progate.github.io
-Project Web Progate Responsive 
+# Project Web Progate Responsive 
